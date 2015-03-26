@@ -1,0 +1,12 @@
+c:\users\qing\documents\visual studio 2012\Projects\DynPlugin\DynPlugin\bin\Debug\DynPlugin.dll
+c:\users\qing\documents\visual studio 2012\Projects\DynPlugin\DynPlugin\bin\Debug\DynPlugin.pdb
+c:\users\qing\documents\visual studio 2012\Projects\DynPlugin\DynPlugin\obj\Debug\DynPlugin.csprojResolveAssemblyReference.cache
+c:\users\qing\documents\visual studio 2012\Projects\DynPlugin\DynPlugin\obj\Debug\DynPlugin.MyCommands.resources
+c:\users\qing\documents\visual studio 2012\Projects\DynPlugin\DynPlugin\obj\Debug\DynPlugin.csproj.GenerateResource.Cache
+c:\users\qing\documents\visual studio 2012\Projects\DynPlugin\DynPlugin\obj\Debug\DynPlugin.dll
+c:\users\qing\documents\visual studio 2012\Projects\DynPlugin\DynPlugin\obj\Debug\DynPlugin.pdb
+C:\Users\qing\Documents\Visual Studio 2012\Projects\DynPlugin\DynPlugin\obj\Debug\DynPlugin_MarkupCompile.cache
+C:\Users\qing\Documents\Visual Studio 2012\Projects\DynPlugin\DynPlugin\obj\Debug\DynPlugin.g.resources
+C:\Users\qing\Documents\Visual Studio 2012\Projects\DynPlugin\DynPlugin\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\qing\Documents\Visual Studio 2012\Projects\DynPlugin\DynPlugin\obj\Debug\Window.baml
+C:\Users\qing\Documents\Visual Studio 2012\Projects\DynPlugin\DynPlugin\obj\Debug\Window.g.cs

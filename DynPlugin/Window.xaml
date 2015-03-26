@@ -1,0 +1,11 @@
+﻿<Window x:Class="DynPlugin.ButtonWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="some window" Height="300" Width="300" Background="Black">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center">
+            <Button ToolTip="just create a point at (1,1,1)" Click="ButtonClick">Create a point    
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
